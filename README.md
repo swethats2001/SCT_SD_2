@@ -20,10 +20,10 @@ If the user fails to guess correctly within three attempts, the program reveals 
 
 Features
 --------
-Random number generation for a unique number each game.
-User-friendly prompts and feedback.
-Error handling for non-integer inputs.
-Automatic reveal of the correct number after three failed attempts.
+1. Random number generation for a unique number each game.
+2. User-friendly prompts and feedback.
+3. Error handling for non-integer inputs.
+4. Automatic reveal of the correct number after three failed attempts.
 
 Feel free to reach out if you have any questions or feedback about this repository. Connect with me on LinkedIn! www.linkedin.com/in/swetha-t-s
 Happy guessing!
