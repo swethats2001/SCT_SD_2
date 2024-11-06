@@ -25,5 +25,6 @@ Features
 3. Error handling for non-integer inputs.
 4. Automatic reveal of the correct number after three failed attempts.
 
-Feel free to reach out if you have any questions or feedback about this repository. Connect with me on LinkedIn! www.linkedin.com/in/swetha-t-s
+Feel free to reach out if you have any questions or feedback about this repository. 
+Connect with me on LinkedIn! www.linkedin.com/in/swetha-t-s
 Happy guessing!
